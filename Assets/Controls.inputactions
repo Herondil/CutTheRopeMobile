@@ -1,0 +1,34 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "00feb64f-eab5-4213-ba19-03e488ec39f6",
+            "actions": [
+                {
+                    "name": "Cut",
+                    "type": "Value",
+                    "id": "9f665a68-9a39-47a2-9bf8-70246a100fe8",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "617d94d2-8bb8-492a-8ac1-576a75c76d09",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cut",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
